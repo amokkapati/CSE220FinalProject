@@ -1,0 +1,30 @@
+Scarab gitrev: 4a1223f
+Warning: Scarab expects the trace file type to include OFFLINE_FILE_TYPE_ARCH_REGDEPS (0x20000), but got type: 0xe40
+Scarab started at Tue Jun  2 01:23:48 2026
+
+Initialized Ramulator. 
+** Heartbeat:   5% -- { 1000004 } -- 0.00 KIPS (52.63 KIPS)
+** Heartbeat:  10% -- { 2000004 } -- 76.92 KIPS (62.50 KIPS)
+** Heartbeat:  15% -- { 3000009 } -- 71.43 KIPS (65.22 KIPS)
+** Heartbeat:  20% -- { 4000009 } -- 52.63 KIPS (61.54 KIPS)
+** Heartbeat:  25% -- { 5000009 } -- 66.67 KIPS (62.50 KIPS)
+** Heartbeat:  30% -- { 6000010 } -- 71.43 KIPS (63.83 KIPS)
+** Heartbeat:  35% -- { 7000013 } -- 71.43 KIPS (64.81 KIPS)
+** Heartbeat:  40% -- { 8000016 } -- 66.67 KIPS (65.04 KIPS)
+** Heartbeat:  45% -- { 9000016 } -- 66.67 KIPS (65.22 KIPS)
+** Heartbeat:  50% -- { 10000016 } -- 71.43 KIPS (65.79 KIPS)
+** Heartbeat:  55% -- { 11000016 } -- 71.43 KIPS (66.27 KIPS)
+** Heartbeat:  60% -- { 12000018 } -- 66.67 KIPS (66.30 KIPS)
+** Heartbeat:  65% -- { 13000019 } -- 66.67 KIPS (66.33 KIPS)
+** Heartbeat:  70% -- { 14000022 } -- 58.82 KIPS (65.73 KIPS)
+** Heartbeat:  75% -- { 15000025 } -- 66.67 KIPS (65.79 KIPS)
+** Heartbeat:  80% -- { 16000027 } -- 76.92 KIPS (66.39 KIPS)
+** Heartbeat:  85% -- { 17000027 } -- 90.91 KIPS (67.46 KIPS)
+** Heartbeat:  90% -- { 18000032 } -- 83.33 KIPS (68.18 KIPS)
+** Heartbeat:  95% -- { 19000032 } -- 76.92 KIPS (68.59 KIPS)
+Reached end of trace (last_inst) pc=0x7ffff2fb3f24
+** Core 0 Finished:    insts:19999999    cycles:15555840    time:4861200000000       -- 1.29 IPC (1.29 IPC) --  N/A  KIPS (67.34 KIPS)
+Scarab finished at Tue Jun  2 01:28:45 2026
+
+Jun  2 01:26:25 2026
+
